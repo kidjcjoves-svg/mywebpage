@@ -1,2 +1,0 @@
-# mywebpage
-my sample webpage
